@@ -30,3 +30,4 @@ bash
 ''
 streamlit app.py
 
+# stock-crypto-dashboard
